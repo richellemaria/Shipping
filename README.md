@@ -4,7 +4,7 @@ Shipping service is responsible for finding the distance of the package to be sh
 
 Shipping service is written in Java, Hence we need to install Java.
 
-1. Install Maven, This will install Java too 
+1. Install Maven, This will install Java too.
 
 ```
 # yum install maven -y
